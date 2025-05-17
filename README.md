@@ -126,5 +126,3 @@ true.
 
 **Laura Estremera**
 University of North Carolina Wilmington – CSC 434: Artificial Intelligence
-
-```
