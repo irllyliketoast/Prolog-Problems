@@ -125,4 +125,4 @@ true.
 ## Author
 
 **Laura Estremera**
-University of North Carolina Wilmington – CSC 434: Artificial Intelligence
+University of North Carolina Wilmington – CSC 434: Programming Languages
