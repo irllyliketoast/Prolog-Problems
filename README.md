@@ -121,8 +121,3 @@ true.
 * No built-in predicates were used unless necessary (as per assignment rules).
 
 ---
-
-## Author
-
-**Laura Estremera**
-University of North Carolina Wilmington – CSC 434: Programming Languages
