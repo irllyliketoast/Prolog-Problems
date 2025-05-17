@@ -2,9 +2,9 @@
 
 This repository contains three Prolog logic-based AI problems:
 
-1. 🂽 **Eight Queens Problem**  
-2. 🤖 **Robot Grid Navigation Problem**  
-3. 🍌 **Monkey-Banana-Box Problem**
+1. **Eight Queens Problem**  
+2. **Robot Grid Navigation Problem**  
+3. **Monkey-Banana-Box Problem**
 
 Each problem demonstrates recursive problem-solving in Prolog, involving search, pathfinding, or constraint satisfaction logic.
 
