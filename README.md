@@ -1,7 +1,3 @@
-Here’s a `README.md` file that documents all three programs—**Eight Queens**, **Robot Grid Navigation**, and the **Monkey-Banana Problem**—in one clear, organized, and well-commented format. It includes usage instructions, examples, and descriptions of each logic system.
-
----
-
 # Prolog AI Problems: Eight Queens, Robot Grid, and Monkey-Banana
 
 This repository contains three Prolog logic-based AI problems:
