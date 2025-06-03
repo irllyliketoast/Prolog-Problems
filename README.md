@@ -37,7 +37,7 @@ Solution = [1/4, 2/2, 3/7, 4/3, 5/6, 6/8, 7/5, 8/1]
 
 ---
 
-## 🤖 Robot Grid Navigation (`robot_path.pl`)
+## Robot Grid Navigation (`robot_path.pl`)
 
 ### Description
 
@@ -71,7 +71,7 @@ Moves = [right, right, right, right, right, up, up, up, up, up, up]
 
 ---
 
-## 🍌 Monkey-Banana-Box Problem (`monkey_banana.pl`)
+## Monkey-Banana-Box Problem (`monkey_banana.pl`)
 
 ### Description
 
