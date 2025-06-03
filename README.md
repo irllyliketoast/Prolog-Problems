@@ -10,7 +10,7 @@ Each problem demonstrates recursive problem-solving in Prolog, involving search,
 
 ---
 
-## 🂽 Eight Queens Problem (`eight_queens.pl`)
+## Eight Queens Problem (`eight_queens.pl`)
 
 ### Description
 
